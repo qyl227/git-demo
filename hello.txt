@@ -1,4 +1,4 @@
-Hello Git
+iHello Git
 Hello Git22222222222222222222222222222
 Hello Git
 Hello Git
@@ -9,4 +9,8 @@ Hello Git
 Hello Git
 Hello Git hot-fix
 update in git
+<<<<<<< HEAD
 test SSH
+=======
+update by lhc
+>>>>>>> 8d2696fb857b3b086f2d25b2bd203aafcc78d8e8
